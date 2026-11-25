@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/UpLUX-DefensoTech/LeetCode/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/UpLUX-DefensoTech/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/UpLUX-DefensoTech/LeetCode/tree/master/0050-powx-n) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/UpLUX-DefensoTech/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Monotonic Stack
