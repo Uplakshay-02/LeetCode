@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/UpLUX-DefensoTech/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/UpLUX-DefensoTech/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/UpLUX-DefensoTech/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0560-subarray-sum-equals-k](https://github.com/UpLUX-DefensoTech/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/UpLUX-DefensoTech/LeetCode/tree/master/0705-design-hashset) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/UpLUX-DefensoTech/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/UpLUX-DefensoTech/LeetCode/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/UpLUX-DefensoTech/LeetCode/tree/master/0039-combination-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/UpLUX-DefensoTech/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0560-subarray-sum-equals-k](https://github.com/UpLUX-DefensoTech/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/UpLUX-DefensoTech/LeetCode/tree/master/0705-design-hashset) |
 | [1019-next-greater-node-in-linked-list](https://github.com/UpLUX-DefensoTech/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Design
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/UpLUX-DefensoTech/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/UpLUX-DefensoTech/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
